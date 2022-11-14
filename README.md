@@ -1,16 +1,14 @@
-### Hi there 👋
+# heyo!
+![peko walking](https://github.com/vanillyn/webprojects/blob/main/peko.gif)
 
-<!--
-**vanillyn/vanillyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+im a **vanillyn**, its been about two years since my last project, im quite rusty
 
-Here are some ideas to get you started:
+i write computer words, such as:
+- js/html
+- visual basic for office (aka c#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i currently am only really doing small projects/forks, like:
+- [vanillin](https://vanillyn.tk/webprojects/vanillin)
+- [mc-rgbgen](https://vanillyn.tk/webprojects/rgbgen)
+
+no i do not have money to pay for an actual domain and yes i know im getting ripped off
