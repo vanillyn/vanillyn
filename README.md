@@ -11,8 +11,8 @@ i write computer words, such as:
 - visual basic for office (aka c#)
 
 i currently am only really doing small projects/forks, like:
-- [vanillin](https://vanillyn.github.io/vanillin)
-- [tetra-legends](https://vanillyn.github.io/tetra-legends)
-- [mc-rgbgen](https://vanillyn.github.io/webprojects/rgbgen)
+- [vanillin](https://vanillyn.github.io/vanillin) ([source](https://github.com/vanillyn/vanillin))
+- [tetra-legends](https://vanillyn.github.io/tetra-legends) ([source](https://github.com/vanillyn/tetra-legends))
+- [others](https://vanillyn.github.io/webprojects/) ([source](https://github.com/vanillyn/webprojects))
 
 no i do not have money to pay for an actual domain
