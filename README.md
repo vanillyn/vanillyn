@@ -7,8 +7,11 @@ im a **vanillyn**
 - my service page is [here](https://vanillyn.tk) ([alt](https://vani.tk))
 
 i write computer words, such as:
-- js/html
-- visual basic for office (aka c#)
+- js/html/css
+- visual basic for office
+- py soon
+
+i also make computer pictures (like the graphic design stuff) and make computer music (sometimes)
 
 i currently am only really doing small projects/forks, like:
 - [vanillin](https://vanillyn.github.io/vanillin) ([source](https://github.com/vanillyn/vanillin))
