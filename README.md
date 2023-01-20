@@ -4,7 +4,7 @@
 im a **vanillyn**
 
 - my main page is [here](https://vani.vendicated.dev)
-- my service page is [here](https://vanillyn.tk) ([alt](https://vani.tk)]
+- my service page is [here](https://vanillyn.tk) ([alt](https://vani.tk))
 
 i write computer words, such as:
 - js/html
