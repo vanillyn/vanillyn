@@ -1,6 +1,6 @@
 # heyo!
-![peko walking](https://github.com/vanillyn/webprojects/blob/main/peko.gif)
 ![stats](https://github-readme-stats.vercel.app/api?username=vanillyn&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
+![peko walking](https://github.com/vanillyn/webprojects/blob/main/peko.gif)
 
 im a **vanillyn**
 
