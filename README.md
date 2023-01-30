@@ -15,6 +15,7 @@ i also make computer pictures (like the graphic design stuff) and make computer 
 
 i currently am only really doing small projects/forks, like:
 - [vanillin](https://vanillyn.github.io/vanillin) ([source](https://github.com/vanillyn/vanillin))
+- [csv/library page](https://vanillyn.github.io/autolibrary) ([source](https://github.com/vanillyn/autolibrary))
 - [tetra-legends](https://vanillyn.github.io/tetra-legends) ([source](https://github.com/vanillyn/tetra-legends))
 - [others](https://vanillyn.github.io/webprojects/) ([source](https://github.com/vanillyn/webprojects))
 
