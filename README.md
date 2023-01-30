@@ -1,5 +1,6 @@
 # heyo!
-![stats](https://github-readme-stats.vercel.app/api?username=vanillyn&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanillyn&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=nord)
+![stats](https://github-readme-stats.vercel.app/api?username=vanillyn&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanillyn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 im a **vanillyn**
 
