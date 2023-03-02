@@ -14,9 +14,14 @@ i also make computer pictures (like the graphic design stuff) and make computer 
 
 i currently am only really doing small projects/forks, like:
 - [vanillin](https://vanillyn.github.io/vanillin) ([source](https://github.com/vanillyn/vanillin))
-- [csv/library page](https://vanillyn.github.io/autolibrary) ([source](https://github.com/vanillyn/autolibrary))
 - [tetra-legends](https://vanillyn.github.io/tetra-legends) ([source](https://github.com/vanillyn/tetra-legends))
 - [others](https://vanillyn.github.io/webprojects/) ([source](https://github.com/vanillyn/webprojects))
+- [sour](https://github.com/vanillyn/sour)
+- [sweet](https://github.com/vanillyn/sweet)
+
+and theming some things
+- [archcraft](https://github.com/vanillyn/archcraft) ([page](https://archcraft.io))
+
 
 no i do not have money to pay for an actual domain
 
