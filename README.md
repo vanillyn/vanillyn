@@ -12,6 +12,10 @@ i write computer words, such as:
 
 i also make computer pictures (like the graphic design stuff) and make computer music (sometimes)
 
+```
+alot of these are broken for rn, as for some reason tailwindcss is so random
+```
+
 i currently am only really doing small projects/forks, like:
 - [vanillin](https://vanillyn.github.io/vanillin) ([source](https://github.com/vanillyn/vanillin))
 - [tetra-legends](https://vanillyn.github.io/tetra-legends) ([source](https://github.com/vanillyn/tetra-legends))
