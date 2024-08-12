@@ -1,1 +1,1 @@
-[![](https://github.com/vanillyn/vanillyn/blob/main/Untitled(2).png?raw=true)](https://vani.multiryzz.com)
+[![](Untitled(2).png)](https://vani.multiryzz.com)
